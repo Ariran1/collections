@@ -1,4 +1,14 @@
-
+.collectionWidthAkgRj {
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  width: 1200px;
+}
+@media screen and (max-width: 1200px) {
+  .collectionWidthAkgRj {
+    width: auto;
+  }
+}
 .container__collectionsDdafkgt4R {
   background: #eee;
   font-family: "PT Sans";
